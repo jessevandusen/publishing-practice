@@ -65,6 +65,22 @@ h1 {
 .subtext {
     font-style: italic ;
 }
+
+.map{
+    display: block;
+    max-width: 640px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    padding: 30px 10px;
+    background-color: bisque;
+    border-style: inset;
+    border-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
 *********************************************************************/
